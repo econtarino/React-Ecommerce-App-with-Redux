@@ -1,9 +1,9 @@
 export const phones = [{
-    "title": "Apple iPhone 7 Plus 32 GB (Apple Türkiye Garantili)",
+    "title": "Mate iron Man ",
     "category": "phone",
-    "images": ["https://productimages.hepsiburada.net/s/18/280-413/9801258663986.jpg?v1", "https://productimages.hepsiburada.net/s/18/280-413/9801258696754.jpg?v1", "https://productimages.hepsiburada.net/s/18/280-413/9801258729522.jpg?v1", "https://productimages.hepsiburada.net/s/18/280-413/9801258762290.jpg?v1"],
-    "brand": "apple",
-    "price": 4241.499828399639,
+    "images": ["https://http2.mlstatic.com/mates-ironman-ventas-x-menor-D_NQ_NP_831355-MLA31998483983_082019-F.webp 2x", "https://http2.mlstatic.com/mates-ironman-ventas-x-menor-D_NQ_NP_692479-MLA31998487463_082019-F.webp 2x"],
+    "brand": "mate",
+    "price": 600,
     "cpu": "1.3GHz Apple A6",
     "camera": "8mp (3264x2448)",
     "size": "124.4mm x 59.2mm x 8.97mm (4.9 x 2.33 x 0.35)",
@@ -12,7 +12,7 @@ export const phones = [{
     "battery": "1480 mAh",
     "memory": "16GB, 32GB and RAM 1 GB",
     "id": 0,
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!"
+    "description": "Mate Totalmente funcional!"
 }, {
     "title": "Huawei Mate 20 Lite 64 GB (Huawei Türkiye Garantili)",
     "category": "phone",
